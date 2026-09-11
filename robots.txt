@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://ChrisMP05.github.io/archive-41rfx4/sitemap.xml
